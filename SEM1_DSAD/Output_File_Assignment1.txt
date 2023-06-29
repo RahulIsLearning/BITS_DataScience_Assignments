@@ -1,0 +1,10 @@
+Total number of employees recorded today: 4 2 employee(s) still inside freezer room.
+Employee id 12 did not swipe today.
+Employee id 22 swiped 2 times today and is currently outside freezer room.
+Employees that swiped more than 3 times today are:
+41 , 3
+Range: 5 to 125 Employee swipe:
+121 , 2 , out
+22 , 2 , out
+5 , 1 , in
+41 , 3 , in
